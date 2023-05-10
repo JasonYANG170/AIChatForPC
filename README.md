@@ -21,7 +21,7 @@ https://github.com/JasonYANG170/YANG-Chat-Android
 # 使用方法
 1.在release区下载msi文件并安装。
 
-2.输入开放测试密钥73838。
+2.输入开放测试密钥73838(不定期更新，加群获取最新密钥)。
 
 3.在输入框输入您的问题。
 # 程序截图
