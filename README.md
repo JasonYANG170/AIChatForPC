@@ -12,6 +12,10 @@
 后期我们将为程序推出更多功能，敬请期待。
 
 **本项目已经转入QT开发，发布V6.0正式版本**
+
+**安卓版本开发完成，欢迎下载测试**
+
+https://github.com/JasonYANG170/YANG-Chat-Android
 # 使用方法
 1.在release区下载msi文件并安装。
 
