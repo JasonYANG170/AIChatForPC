@@ -1,9 +1,9 @@
 
 <div align="center">
     <h1>AIChatForPC</h1>
-    <img src="https://img.shields.io/github/license/JasonYANG170/YANG-Chat?label=License&style=for-the-badge">
-    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/YANG-Chat?style=for-the-badge">
-<img src="https://img.shields.io/github/languages/count/JasonYANG170/YANG-Chat?logo=python&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/JasonYANG170/AIChatForPC?label=License&style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/AIChatForPC?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/JasonYANG170/AIChatForPC?logo=python&style=for-the-badge">
 	<br>
     	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
   <br>
@@ -23,8 +23,6 @@
 
 ## QT版本
 基于QT6.0开发
-
-（这是重大操作，如使用此功能后您需要重新设置内容请在下次打开程序后5S内点击停用自动关闭。）
 
 ## MFC版本
 基于VisualStudio2022 MFC开发
