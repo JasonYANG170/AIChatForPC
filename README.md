@@ -1,32 +1,41 @@
-# YANG Chat
-**记得给我的项目点个⭐️Starred哦，让我更有动力维护它**
-项目结束
-本项目于2023年3月4日启动，并发布第一个测试版本。
 
-这是一项AI聊天程序，本程序现已接入OpenAI ChatGPT API，
+<div align="center">
+    <h1>AIChatForPC</h1>
+    <img src="https://img.shields.io/github/license/JasonYANG170/YANG-Chat?label=License&style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/YANG-Chat?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/JasonYANG170/YANG-Chat?logo=python&style=for-the-badge">
+	<br>
+    	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
+  <br>
 
-您可以通过本程序帮助您写代码，写文章，以及提问。
+这是一项基于C++语言的QT应用程序
+  
+<br>
 
-严禁将本项目涉及违法违规以及政治领域，程序将秉持公平公正客观的原则回答您所提出的问题。
+</div>
 
-后期我们将为程序推出更多功能，敬请期待。
+## 功能  
+- ✅ ChatGPT3.1
+- ✅ 间断对话
+- ✅ 连续对话
+- ✅ 云服务请求
 
-**本项目已经转入QT开发，发布V6.0正式版本**
+## QT版本
+基于QT6.0开发
 
-**安卓版本开发完成，欢迎下载测试**
+（这是重大操作，如使用此功能后您需要重新设置内容请在下次打开程序后5S内点击停用自动关闭。）
 
-https://github.com/JasonYANG170/YANG-Chat-Android
-# 使用方法
-1.在release区下载msi文件并安装。
+## MFC版本
+基于VisualStudio2022 MFC开发
 
-2.输入开放测试密钥73838(不定期更新，加群获取最新密钥)。
+## 支持环境
+1.WindowsXP以上操作系统（推荐Windows10以上系统）  
+2.64位操作系统
+# MFC版本程序界面 
+![屏幕截图(675)](https://user-images.githubusercontent.com/39414350/216811553-992bfea5-3027-4a51-bfa9-ba9dc7903818.png)
+![屏幕截图(674)](https://user-images.githubusercontent.com/39414350/216811556-d4ae74f6-9d1b-4e99-9247-922938416049.png)
+![屏幕截图(775)](https://user-images.githubusercontent.com/39414350/222312705-ba5fba4e-3e22-4138-985e-775abac0d3d3.png)
+# QT重构版程序界面 
 
-3.在输入框输入您的问题。
-# 程序截图
-**V1.0.0**
+![屏幕截图(582)](https://user-images.githubusercontent.com/39414350/236625679-28d68b3b-8bc6-418f-9510-33351ca81a9a.png)
 
-![屏幕截图(805)](https://user-images.githubusercontent.com/39414350/222898309-9541e3be-34a5-4def-a66e-3974b6e8c329.png)
-
-**V5.1.0**
-
-![屏幕截图(576)](https://user-images.githubusercontent.com/39414350/236625151-90034fe9-a4ff-4060-93cb-d4d2cf95bf50.png)
